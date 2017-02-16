@@ -1,5 +1,5 @@
 # SpeakerToggle
-A simple windows application to toggle between speaker modesw
+A simple windows application to toggle between speaker modes
 
 Icon by Sallee Design. Thank you!
 
